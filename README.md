@@ -1,2 +1,2 @@
 # cpp_templates
-C
+C++ templates英文第二版的原版书籍
